@@ -1,0 +1,24 @@
+{
+    "name": "informational-site",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "devtest": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TymeeK/informational-site.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TymeeK/informational-site/issues"
+    },
+    "homepage": "https://github.com/TymeeK/informational-site#readme",
+    "dependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
